@@ -212,4 +212,4 @@ async def setup_ticket(interaction: discord.Interaction):
 
 
 # ใส่ Token บอทของคุณที่นี่
-bot.run("YOUR_BOT_TOKEN_HERE")
+bot.run("MTU1NDExNDQwNjM1MzQ3MzU2Nw.GdUT5n.1v-v3fcCvf3Rh-94qCfQRSDTndsFXJk9qE7Paw")
